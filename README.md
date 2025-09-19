@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SeanByrne04
-- 👀 I’m interested in statistics and game dev
-- 🌱 I’m currently learning statistics with python and matplotlib
+- 👋 Hi, I’m Sean Byrne
+- 👀 I’m interested in Computer Sicence
+- 🌱 I’m currently learning Java
 - 📫 You can reach me by emailing me at seanbyrne04@outlook.com
 
 <!---
